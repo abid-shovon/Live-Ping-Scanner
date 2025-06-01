@@ -1,5 +1,5 @@
 ﻿# Live-Ping-Scanner
-### ✨ Features
+###  Features
 
  **Auto OS Detection** (Windows/Linux)
  **Ping a Single IP Address**
@@ -9,7 +9,7 @@
  **ICMP TTL-based Live Host Detection**
  **Beginner-Friendly Code Structure**
 
-### 🔧 Requirements
+###  Requirements
 
 - Python 3.12
 - Works on:
